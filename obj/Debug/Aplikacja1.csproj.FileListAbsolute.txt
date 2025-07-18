@@ -1,0 +1,40 @@
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form1.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form2.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form3.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form4.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form5.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form6.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form7.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form8.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form9.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form10.resources
+C:\Users\Admin\source\repos\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form11.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.AssemblyReference.cache
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form1.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form10.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form11.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form2.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form3.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form4.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form5.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form6.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form7.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form8.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form9.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Properties.Resources.resources
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.GenerateResource.cache
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.CoreCompileInputs.cache
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+D:\Zaliczenie programowanie obiektowe\gotowe\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
