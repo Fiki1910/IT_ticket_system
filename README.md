@@ -35,7 +35,7 @@ A simple IT support ticket management system. This project helps IT departments 
 ## 🚀 Running the Application
 
 Clone this repository:
-   bash
+  
    git clone https://github.com/Fiki1910/IT_ticket_system.git
 
     Open the solution in Visual Studio.
