@@ -33,9 +33,9 @@ A simple IT support ticket management system. This project helps IT departments 
 ---
 
 ## 🚀 Running the Application
+1. **Clone this repository:**
 
-Clone this repository:
-  
+   ```bash
    git clone https://github.com/Fiki1910/IT_ticket_system.git
 
     Open the solution in Visual Studio.
@@ -56,9 +56,9 @@ dotnet build
 
 Run the project:
 
-    dotnet run
+dotnet run
 
-    Open your browser and navigate to http://localhost:5000 (or the port specified).
+Open your browser and navigate to http://localhost:5000 (or the port specified).
 
 📌 Features
 
