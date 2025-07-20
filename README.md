@@ -2,6 +2,15 @@ IT Ticket System
 
 A simple system for creating and managing IT support tickets.
 
+
+🗄️ Restore the Database
+
+1. Open **SQL Server Management Studio (SSMS)**.
+2. Create a new database named `IT_ticket_system` (or any name you prefer).
+3. Right-click the new database → **Tasks** → **Restore** → **Database**.
+4. Choose **Device**, then select the `.bak` file.
+5. Restore it. Verify that the tables, stored procedures, and data exist.
+
 🚀 How to Run the Application:
 
    1. Clone this repository
